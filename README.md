@@ -4,7 +4,7 @@ Team name: KMCBoyz
 
 Member 1:
 
-Name  :  Kaavish Tandok
+Name  :  Kaavish Tandon
 
 Email :  233221@kmc.du.ac.in
 
